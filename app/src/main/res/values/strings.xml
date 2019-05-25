@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RxSearch</string>
+    <string name="search_text">Search text</string>
+    <string name="item_year">Year: %1$d</string>
+    <string name="error_message">Error: %1$s</string>
+</resources>
