@@ -25,7 +25,7 @@ class Repository {
                         (1990..2019).random(),
                         countries.random()
                     )
-                ).delay(1, TimeUnit.SECONDS)
+                ).delay(5, TimeUnit.SECONDS)
             }
     }
 }
